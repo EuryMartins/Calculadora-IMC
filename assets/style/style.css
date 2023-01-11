@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 :root {
-    --primary-color: rgb(163, 255, 140);
-    --primary-color-darker: rgb(30, 90, 15);
+    --primary-color: rgb(51, 119, 32);
+    --primary-color-darker: rgb(19, 58, 9);
 }
 
 * {
